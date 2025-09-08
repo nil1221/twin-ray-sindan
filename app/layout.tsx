@@ -21,8 +21,8 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   // Googleアナリティクスとサーチコンソールの設定
-  const gaMeasurementId = "G-XXXXXXXXXX"; // あなたの測定IDに置き換えてください
-  const searchConsoleVerification = "YOUR_SEARCH_CONSOLE_VERIFICATION_CODE"; // あなたの認証コードに置き換えてください
+  const gaMeasurementId = "G-5Q41VCZ7EC"; // あなたの測定IDに置き換えてください
+  const searchConsoleVerification = "08V_B2Y69-0QogMT5v62Nf9X4Cl6X76_Egy78_7GX48"; // あなたの認証コードに置き換えてください
 
   return (
     <html lang="ja" className={cn(inter.className, "antialiased")}>
