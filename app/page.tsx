@@ -264,7 +264,7 @@ export default function TwinFlameDiagnosis() {
                     お相手の気持ちや統合時期、お二人のサイレント期間について詳しく知る
                   </p>
                   <div
-                    onClick={() => window.open("https://lin.ee/QD2zjWD", "_blank")}
+                    onClick={() => window.open("https://lin.ee/sylSC9X", "_blank")}
                     className="w-full shadow-xl py-6 text-xl transform hover:scale-105 transition-all duration-300 font-semibold rounded-lg cursor-pointer flex items-center justify-center"
                     style={{
                       background: "linear-gradient(135deg, #15803d 0%, #166534 100%)",
